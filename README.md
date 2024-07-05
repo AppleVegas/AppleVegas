@@ -7,7 +7,7 @@
 - Wireshark
 - Cheat Engine
 
-### And these are the languages I mainly code on:
+### And these are the languages I mainly code in:
 - Python 3
 - C++
 - JavaScript
