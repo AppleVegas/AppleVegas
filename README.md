@@ -1,12 +1,13 @@
 # Welcome!
 ### I'm AppleVegas, I enjoy reverse engineering and coding.
 
-### Reverse engineering, I mostly use these tools:
+### I use these tools for reverse engineering:
 - IDA Pro 7.7
 - Ghidra
+- Wireshark
 - Cheat Engine
 
-### Coding, mostly I work with these languages:
+### And these are the languages I mainly code on:
 - Python 3
 - C++
 - JavaScript
