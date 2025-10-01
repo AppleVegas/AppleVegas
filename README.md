@@ -13,7 +13,7 @@
 - JavaScript
 - Lua  
 
-<sub>Yes, I use initial project name "Appel" for all my projects...</sub>
+<sub>clippy.png</sub>
 
 🤸‍♂️  
 🦽🏌️‍♂️
